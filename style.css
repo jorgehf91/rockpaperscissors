@@ -4,11 +4,11 @@
     justify-content: center;
     gap: 8em;
     margin: 5%;
+    flex-wrap: nowrap;
 }
 
 
 button {
     height: 4em;
     width: 5em;
-
 }
