@@ -151,9 +151,9 @@ let divs = document.getElementsByTagName('div');
 //divs.style.borderStyle = '5px solid red';
 console.log(divs);
 
-for (let i = 0; i < divs.length; i++) {  
-    divs[i].style.margin = '20px';
-} 
+// for (let i = 0; i < divs.length; i++) {  
+//     divs[i].style.margin = '20px';
+// } 
 
 rounds.style.textAlign = 'center';
 rounds.style.fontWeight = 'bold';

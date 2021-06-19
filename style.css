@@ -1,5 +1,14 @@
-button {
+.container-buttons {
+    display: flex;
     box-sizing: border-box;
-    margin: 120px;
-    padding: 10px;
+    justify-content: center;
+    gap: 8em;
+    margin: 5%;
+}
+
+
+button {
+    height: 4em;
+    width: 5em;
+
 }
